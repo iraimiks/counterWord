@@ -1,6 +1,6 @@
 # counterWord
-Count words in text
-**Simple word frequency counter from text file**<br>
+
+**Simple word counter from text file**<br>
 <hr>
 Task description<br>
 There is a file somewhere on disk with ASCII text (any book in English).
