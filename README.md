@@ -15,12 +15,13 @@ order: more popular words come first.
 
 <br>
 <hr>
-
+Guid to start program
+<br>
 Use command promt to compile Main.java with comand **javac Main.java**; 
 <br>
 After use comand **java Main.java "Input apsolute path of your file"**;
 <br>
-exemple** ~/src/lv/raimonds>java Main.java "C:\Users\Admin\Desktop\countWordInText\testfile.txt"**
+exemple **~/src/lv/raimonds>java Main.java "C:\Users\Admin\Desktop\countWordInText\testfile.txt"**
 <br>
 All word will be seen in console;
 <br>
