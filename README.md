@@ -1,6 +1,7 @@
 # counterWord
 Count words in text
 **Simple word frequency counter from text file**<br>
+<hr>
 Task description<br>
 There is a file somewhere on disk with ASCII text (any book in English).
 <br>
@@ -24,7 +25,7 @@ exemple** ~/src/lv/raimonds>java Main.java "C:\Users\Admin\Desktop\countWordInTe
 All word will be seen in console;
 <br>
 <hr>
-**Note**
+Note
 <br>
 What can be improve with code.<br>
 - need test difreent Collection, <br>
