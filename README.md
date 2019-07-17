@@ -1,7 +1,7 @@
 # counterWord
 Count words in text
-**Simple word frequency counter from text file**
-Task description
+**Simple word frequency counter from text file**<br>
+Task description<br>
 There is a file somewhere on disk with ASCII text (any book in English).
 <br>
 JAVA program should take name of the file as a program argument.
@@ -12,7 +12,8 @@ Then it should count every word occurrences and print out in System.out all iden
 <br>
 order: more popular words come first.
 
-
+<br>
+<hr>
 
 Use command promt to compile Main.java with comand **javac Main.java**; 
 <br>
@@ -21,7 +22,10 @@ After use comand **java Main.java "Input apsolute path of your file"**;
 exemple** ~/src/lv/raimonds>java Main.java "C:\Users\Admin\Desktop\countWordInText\testfile.txt"**
 <br>
 All word will be seen in console;
+<br>
+<hr>
 **Note**
+<br>
 What can be improve with code.<br>
 - need test difreent Collection, <br>
 - I use java features with different imports, probably if <br>
