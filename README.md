@@ -17,11 +17,11 @@ order: more popular words come first.
 <hr>
 Guid to start program
 <br>
-Use command promt to compile Main.java with comand **javac Main.java**; 
+Use command promt to compile Main.java with comand __javac Main.java__; 
 <br>
-After use comand **java Main.java "Input apsolute path of your file"**;
+After use comand __java Main.java "Input apsolute path of your file"__;
 <br>
-exemple **~/src/lv/raimonds>java Main.java "C:\Users\Admin\Desktop\countWordInText\testfile.txt"**
+exemple __~/src/lv/raimonds>java Main.java "C:\Users\Admin\Desktop\countWordInText\testfile.txt"__
 <br>
 All word will be seen in console;
 <br>
